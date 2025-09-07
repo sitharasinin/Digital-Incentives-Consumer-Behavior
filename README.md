@@ -37,4 +37,4 @@ Please note: This repository archives the final research paper for a project com
 
 You can read the complete research paper and view the detailed regression output here:
 
-** **
+[Click here to read the full paper](./The Economics of Free Cash.PDF)
