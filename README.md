@@ -29,7 +29,6 @@ The econometric analysis was conducted using the following tools:
 * **Language/Software:** R (in R Studio) 
 * **R Packages:** `dplyr` for data manipulation, `readxl` for data import, and `broom` for tidying model outputs.
 
-### ❗ A Note on the Code
 
 Please note: This repository archives the final research paper for a project completed at the Delhi School of Economics. 
 
